@@ -11,7 +11,7 @@ kotlin {
     sourceSets {
         val commonMain by getting {
             dependencies {
-                implementation("com.google.guava:guava:32.1.0-jre")
+                implementation("com.google.guava:guava:32.1.3-jre")
             }
         }
         val commonTest by getting
