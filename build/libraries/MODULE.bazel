@@ -23,7 +23,7 @@ maven.install(
   ### auto-generated section `artifacts` start
   artifacts = [
     "org.jetbrains.kotlin:kotlin-serialization-compiler-plugin:2.0.10",
-    "ai.grazie.nlp:nlp-detect-jvm:0.3.126",
+    "ai.grazie.nlp:nlp-detect-jvm:0.8.59",
     "ai.grazie.spell:gec-spell-engine-local-jvm:0.3.126",
     "ai.grazie.spell:hunspell-en-jvm:0.2.141",
     "ai.grazie.utils:utils-lucene-lt-compatibility-jvm:0.3.126",
