@@ -26,7 +26,7 @@ maven.install(
     "ai.grazie.nlp:nlp-detect-jvm:0.3.126",
     "ai.grazie.spell:gec-spell-engine-local-jvm:0.3.126",
     "ai.grazie.spell:hunspell-en-jvm:0.2.141",
-    "ai.grazie.utils:utils-lucene-lt-compatibility-jvm:0.3.126",
+    "ai.grazie.utils:utils-lucene-lt-compatibility-jvm:0.3.132",
     "com.amazon.ion:ion-java:1.11.9",
     "com.dynatrace.hash4j:hash4j:0.18.0",
     "com.esotericsoftware:kryo5:5.6.0",
